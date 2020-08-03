@@ -1,3 +1,13 @@
+# Cronograma
+
+| Atividade                                     | Responsável   | Data limite |
+| --------------------------------------------- | ------------- | ----------- |
+| Definir lista de revistas                     | _             | 02/08       |
+| Definir critérios de busca com descritores    | _             | 03/08       |
+| Busca                                         | _             | 23/08       |
+| Sistematização                                | _             | 10/09       |
+| Revisão                                       | _             | 14/09       |
+
 # Lista de revistas
 
 ## Comunicação
