@@ -9,6 +9,18 @@
 | Sistematização                                | _             | 10/09       |
 | Revisão                                       | _             | 14/09       |
 
+# Descritores
+
+| Relacionado com o colectivo | Relacionado com a Internet | Relacionado com a verdade e os valores | Relacionado com a educação |
+| --------------------------- | -------------------------- | -------------------------------------- | -------------------------- |
+| Infância / crianças         | Redes sociais              | Pós-Verdade                            | Educação para os Média     |
+| Juventude                   | Instagram                  | Ética                                  | Alfabetização digital      |
+| Adolescentes                | Youtube                    | Valores                                | Pensamento crítico         |
+|                             | Twitter                    | Fake News                              | Aprendizagem               |
+|                             | **Facebook** ?             | Desinformação                          | Formação de professores    |
+|                             | **WhatsApp** ?             |                                        |                            |
+|                             | **Mídias sociais** ?       |                                        |                            |
+
 # Lista de revistas
 
 ## Comunicação
