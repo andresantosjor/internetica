@@ -83,8 +83,6 @@
 
 [REVISTA FAMECOS (ONLINE)](https://revistaseletronicas.pucrs.br/ojs/index.php/revistafamecos/index)
 
-[REVISTA INTERAMERICANA DE BIBLIOTECOLOGIA](https://revistas.udea.edu.co/index.php/RIB)
-
 [TEMPO (NITERÓI. ONLINE)](https://www.scielo.br/scielo.php?script=sci_serial&pid=1413-7704&lng=en)
 
 ## Educação
