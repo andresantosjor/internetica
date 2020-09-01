@@ -17,9 +17,9 @@
 | Juventude                   | Instagram                  | Ética                                  | Alfabetização digital      |
 | Adolescentes                | Youtube                    | Valores                                | Pensamento crítico         |
 |                             | Twitter                    | Fake News                              | Aprendizagem               |
-|                             | **Facebook** ?             | Desinformação                          | Formação de professores    |
-|                             | **WhatsApp** ?             |                                        |                            |
-|                             | **Mídias sociais** ?       |                                        |                            |
+|                             | ~~**Facebook**~~             | Desinformação                          | Formação de professores    |
+|                             | ~~**WhatsApp**~~             |                                        |                            |
+|                             | ~~**Mídias sociais**~~       |                                        |                            |
 
 # Lista de Artigos (88 total)
 
