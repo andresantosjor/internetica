@@ -21,6 +21,10 @@
 |                             | **WhatsApp** ?             |                                        |                            |
 |                             | **Mídias sociais** ?       |                                        |                            |
 
+# Lista de Artigos (88 total)
+
+[Link para acessar a Lista](artigos.md)
+
 # Lista de revistas
 
 ## Comunicação
